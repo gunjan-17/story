@@ -1,2 +1,4 @@
 git add [file]
 add a file as it looks now to your next commit (stage)
+
+git rm --cached -r .
