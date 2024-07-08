@@ -1,0 +1,5 @@
+git checkout 'branch-name'
+switch to another branch and check it out into your working directory
+
+git push [alias] [branch]
+Transmit local branch commits to the remote repository branch
